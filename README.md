@@ -15,8 +15,9 @@ import bulgarianMessages from 'ra-language-bulgarian';
 const messages = {
     'bg': bulgarianMessages,
 };
+const i18nProvider = locale => messages[locale];
 
-<Admin locale="bg" messages={messages}>
+<Admin locale="bg" i18nProvider={i18nProvider}>
   ...
 </Admin>
 ```
