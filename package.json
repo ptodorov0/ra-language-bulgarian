@@ -1,0 +1,23 @@
+{
+  "name": "ra-language-bulgarian",
+  "version": "1.0.0",
+  "description": "Bulgarian messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptodorov0/ra-language-bulgarian.git"
+  },
+  "keywords": [
+    "react-admin",
+    "bulgarian",
+    "translation",
+    "translate",
+    "ra-language-bulgarian"
+  ],
+  "author": "Plamen Todorov <me@ptodorov.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptodorov0/ra-language-bulgarian/issues"
+  },
+  "homepage": "https://github.com/ptodorov0/ra-language-bulgarian#readme"
+}
