@@ -22,6 +22,7 @@ module.exports = {
             show: 'Покажи',
             sort: 'Сортирай',
             undo: 'Отмени',
+            unselect: 'Премахни избраните',
         },
         boolean: {
             true: 'Да',
